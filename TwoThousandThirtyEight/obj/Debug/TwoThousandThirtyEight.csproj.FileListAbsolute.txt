@@ -1,0 +1,15 @@
+D:\VS\TwoThousandThirtyEight\TwoThousandThirtyEight\bin\Debug\TwoThousandThirtyEight.exe.config
+D:\VS\TwoThousandThirtyEight\TwoThousandThirtyEight\bin\Debug\TwoThousandThirtyEight.exe
+D:\VS\TwoThousandThirtyEight\TwoThousandThirtyEight\bin\Debug\TwoThousandThirtyEight.pdb
+D:\VS\TwoThousandThirtyEight\TwoThousandThirtyEight\obj\Debug\TwoThousandThirtyEight.csprojAssemblyReference.cache
+D:\VS\TwoThousandThirtyEight\TwoThousandThirtyEight\obj\Debug\MainWindow.g.cs
+D:\VS\TwoThousandThirtyEight\TwoThousandThirtyEight\obj\Debug\App.g.cs
+D:\VS\TwoThousandThirtyEight\TwoThousandThirtyEight\obj\Debug\TwoThousandThirtyEight_MarkupCompile.cache
+D:\VS\TwoThousandThirtyEight\TwoThousandThirtyEight\obj\Debug\TwoThousandThirtyEight_MarkupCompile.lref
+D:\VS\TwoThousandThirtyEight\TwoThousandThirtyEight\obj\Debug\MainWindow.baml
+D:\VS\TwoThousandThirtyEight\TwoThousandThirtyEight\obj\Debug\TwoThousandThirtyEight.g.resources
+D:\VS\TwoThousandThirtyEight\TwoThousandThirtyEight\obj\Debug\TwoThousandThirtyEight.Properties.Resources.resources
+D:\VS\TwoThousandThirtyEight\TwoThousandThirtyEight\obj\Debug\TwoThousandThirtyEight.csproj.GenerateResource.cache
+D:\VS\TwoThousandThirtyEight\TwoThousandThirtyEight\obj\Debug\TwoThousandThirtyEight.csproj.CoreCompileInputs.cache
+D:\VS\TwoThousandThirtyEight\TwoThousandThirtyEight\obj\Debug\TwoThousandThirtyEight.exe
+D:\VS\TwoThousandThirtyEight\TwoThousandThirtyEight\obj\Debug\TwoThousandThirtyEight.pdb
